@@ -57,8 +57,8 @@ async function loadCollaborativeDocVersion (
   }
 
   const historyDocumentId = collaborativeHistoryDocId(documentId)
-  const yHistory = await ctx.with('yDocToStorage', { type: 'history' }, async () => {
-    return await yDocToStorage(storageAdapter, workspace, historyDocumentId, new YDoc())
+  const yHistory = await ctx.with('yDocFromStorage', { type: 'history' }, async () => {
+    return await yDocFromStorage(storageAdapter, workspace, historyDocumentId, new YDoc())
   })
 
   // the history document does not exist
