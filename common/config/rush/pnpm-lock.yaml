@@ -20340,7 +20340,7 @@ packages:
     dev: false
 
   file:projects/model-text-editor.tgz:
-    resolution: {integrity: sha512-vhOz/CHNkCtXIUVQuUIpW1ohtVdSDfBh8/iwinS0Dw+4Jz++SDX1xTpeeh0KwbOBvsYmfnyhIE9zDCMmLwS7Ww==, tarball: file:projects/model-text-editor.tgz}
+    resolution: {integrity: sha512-f86wsEsQ2EquV7E8pCgzL8abdtKrKHwzdVeA8EDkcOeCJ3Y+dpJSS1xfUxsyimS8ox5lcsdOFZVac8iQLLlr3w==, tarball: file:projects/model-text-editor.tgz}
     name: '@rush-temp/model-text-editor'
     version: 0.0.0
     dependencies:
@@ -21021,7 +21021,7 @@ packages:
     dev: false
 
   file:projects/presentation.tgz(@types/node@20.11.19)(esbuild@0.20.1)(postcss-load-config@4.0.2)(postcss@8.4.35)(ts-node@10.9.2):
-    resolution: {integrity: sha512-vDMMHl4ueGIfuG5SVhRzfSG+0CFpOk2M+ibJaRdIEEaBSSMtP8PyW4DGcpeB4zuqp7oZr1HEgkepl5OOojPQiQ==, tarball: file:projects/presentation.tgz}
+    resolution: {integrity: sha512-aumx71ZjObibTxi9/QhHh6cXBC7RUX9qpRgCgxI44z5Uhsf018PWFhjRqECrt7cxffsk77JPissDKpXOl4IBUw==, tarball: file:projects/presentation.tgz}
     id: file:projects/presentation.tgz
     name: '@rush-temp/presentation'
     version: 0.0.0
@@ -23838,7 +23838,7 @@ packages:
     dev: false
 
   file:projects/text-editor.tgz(@types/node@20.11.19)(bufferutil@4.0.8)(esbuild@0.20.1)(postcss-load-config@4.0.2)(postcss@8.4.35)(prosemirror-model@1.19.4)(ts-node@10.9.2):
-    resolution: {integrity: sha512-SWw74/B8rNuhs6/s0Kptd7FDl4wcyZtutsOpVGvwzFK0uSQPFmYgOUUo4MuGAoIFCYcf4eub69OlOeja7nbygg==, tarball: file:projects/text-editor.tgz}
+    resolution: {integrity: sha512-ZS4/UhxcE1r6KFI6C/p7Y132OFSVNSSdqOKK4YaJbAe36ULW/Ktp/1/L0oUlInsGPXfkiwpRoxrehXdFeSzHtg==, tarball: file:projects/text-editor.tgz}
     id: file:projects/text-editor.tgz
     name: '@rush-temp/text-editor'
     version: 0.0.0
@@ -23881,6 +23881,7 @@ packages:
       eslint-plugin-n: 15.7.0(eslint@8.56.0)
       eslint-plugin-promise: 6.1.1(eslint@8.56.0)
       eslint-plugin-svelte: 2.35.1(eslint@8.56.0)(svelte@4.2.12)(ts-node@10.9.2)
+      fast-equals: 2.0.4
       filesize: 8.0.7
       jest: 29.7.0(@types/node@20.11.19)(ts-node@10.9.2)
       lib0: 0.2.89
@@ -24421,7 +24422,7 @@ packages:
     dev: false
 
   file:projects/view-resources.tgz(@types/node@20.11.19)(esbuild@0.20.1)(postcss-load-config@4.0.2)(postcss@8.4.35)(ts-node@10.9.2):
-    resolution: {integrity: sha512-uoTXLEhHw78OygxtyHNixFj0CcSJ0cFH4Nf0Sjw0OtltnKZgeEV2HjyMU1Ums4e1AvdPf1jtzCFTcc05kEiWqA==, tarball: file:projects/view-resources.tgz}
+    resolution: {integrity: sha512-My4rMrLqRvuEvyeud09gfeY/ils1zFNhnsaZo5R4x9Smgf3BxQcisgc8vNychKmIPw1aOQOidARG16UpZW7z9A==, tarball: file:projects/view-resources.tgz}
     id: file:projects/view-resources.tgz
     name: '@rush-temp/view-resources'
     version: 0.0.0
